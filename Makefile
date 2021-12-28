@@ -1,0 +1,2 @@
+runserver:
+	mkdocs serve
