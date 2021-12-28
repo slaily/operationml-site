@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: MLOps
+site_url: https://mlopspace.com
+extra:
+  homepage: https://mlopspace.com
+nav:
+  - Home: index.md
+theme:
+  name: material
+  logo: assets/images/logo.svg
+  favicon: assets/images/logo.svg
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
