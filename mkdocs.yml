@@ -1,7 +1,7 @@
 site_name: OperationML
-site_url: https://operationml.com
+site_url: https://operationml.com/
 extra:
-  homepage: https://operationml.com
+  homepage: https://operationml.com/
 nav:
   - Home: index.md
   - Guides:
