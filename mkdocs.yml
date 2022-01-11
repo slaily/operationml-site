@@ -2,6 +2,9 @@ site_name: OperationML
 site_url: https://operationml.com/
 extra:
   homepage: https://operationml.com/
+  analytics:
+    provider: google
+    property: G-1TPGZD2FRV
 nav:
   - Home: index.md
   - Guides:
